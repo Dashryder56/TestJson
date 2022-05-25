@@ -1,0 +1,21 @@
+{
+	"UserInfo": [{
+			"UserId": "0",
+			"UserName": "MrUser1",
+			"Thumbnail": "Thumb1",
+			"Skin": "Denton"
+		},
+		{
+			"UserId": "1",
+			"UserName": "MrUser2",
+			"Thumbnail": "Thumb2",
+			"Skin": "Denton"
+		},
+		{
+			"UserId": "3",
+			"UserName": "MrUser3",
+			"Thumbnail": "Thumb3",
+			"Skin": "Denton"
+		}
+	]
+}
